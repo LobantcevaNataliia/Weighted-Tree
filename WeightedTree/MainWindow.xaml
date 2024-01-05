@@ -1,0 +1,78 @@
+﻿<Window x:Name="mainWindowWeightedTree" x:Class="WeightedTree.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeightedTree"
+        mc:Ignorable="d"
+        Title="WeightedTree" Height="600" Width="800" Loaded="Form1_Load" SizeChanged="Form_SizeChanged">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="9*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Column="0" Grid.Row="0" Background="Azure">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="5*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Row="0" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Grid.Row="0" x:Name="EnterData" Content="Ввести дані"  Click="EnterData_Click" Margin="10,5" Background="DeepSkyBlue"/>
+                <Button Grid.Row="1" x:Name="DownloadFromFile" Content="Завантажити дані"  Click="DownloadFromFile_Click" Margin="10,5" Background="DeepSkyBlue"/>
+                <Button Grid.Row="2" x:Name="SaveToFile" Content="Зберегти дані"  Click="SaveToFile_Click" Margin="10,5" Background="DeepSkyBlue"/>
+            </Grid>
+            
+            <DataGrid Grid.Row="1" x:Name="dataGrid1" Margin="10,5" >
+                <DataGrid.Columns >
+                </DataGrid.Columns>
+            </DataGrid>
+            
+            <Grid Grid.Row="2" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="0.6*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" x:Name="AddElement" Content="Додати елемент"  Click="AddElement_Click" Margin="10,5" Background="SkyBlue"/>
+                <Button Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="DeleteElement" Content="Видалити елемент"  Click="DeleteElement_Click" Margin="10,5" Background="SkyBlue"/>
+                <TextBlock Grid.Column="0" Grid.Row="2" x:Name="textBlock" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Символ" Margin="10,0"/>
+                <TextBlock Grid.Column="1" Grid.Row="2" x:Name="textBl" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Частота" Margin="10,0"/>
+                <TextBox Grid.Column="0" Grid.Row="3" x:Name="tBNewEl" HorizontalAlignment="Stretch"  TextWrapping="Wrap" Text="t" Margin="10,5" />
+                <TextBox Grid.Column="1" Grid.Row="3" x:Name="tBNewW" HorizontalAlignment="Stretch" TextWrapping="Wrap" Text="12" Margin="10,5" />
+            </Grid>
+        </Grid>
+
+        <Canvas x:Name="pictureCanvas" Grid.Column="1"  Grid.Row="0" Grid.ColumnSpan="3" Background="AliceBlue"/>
+
+        <Button Grid.Column="0" Grid.Row="1" Background="#dfffff" x:Name="Decode" Content="Декодувати" 
+                    Click="Decode_Click" Margin="10,5"/>
+
+        <Grid Grid.Column="1" Grid.Row="1" Background="#dfffff" >
+            <TextBox x:Name="textBox1" TextWrapping="Wrap" AcceptsReturn="True"  VerticalScrollBarVisibility="Auto"
+         HorizontalScrollBarVisibility="Auto" Text="00011110 00 11111110 00010001" Margin="10,5"  />
+        </Grid>
+
+        <Grid Grid.Column="2" Grid.Row="1" Background="#dfffff" >
+            <TextBox x:Name="textBox2" TextWrapping="Wrap" AcceptsReturn="True"  VerticalScrollBarVisibility="Auto"
+         HorizontalScrollBarVisibility="Auto" IsReadOnly="True" Margin="10,5"  />
+        </Grid>
+    </Grid>
+</Window>

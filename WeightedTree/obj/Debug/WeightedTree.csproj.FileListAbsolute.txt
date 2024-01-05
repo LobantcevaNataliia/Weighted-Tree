@@ -1,0 +1,45 @@
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\bin\Debug\WeightedTree.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\bin\Debug\WeightedTree.exe
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\bin\Debug\WeightedTree.pdb
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree.g.resources
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree.exe
+c:\users\user\documents\visual studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\WeightedTree.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\HelloWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\WeightedTree\WeightedTree\obj\Debug\HelloWindow.baml
+C:\Users\user\Desktop\WeightedTree\WeightedTree\bin\Debug\WeightedTree.exe.config
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree.exe
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree.pdb
+C:\Users\user\Desktop\WeightedTree\WeightedTree\bin\Debug\WeightedTree.exe
+C:\Users\user\Desktop\WeightedTree\WeightedTree\bin\Debug\WeightedTree.pdb
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree_MarkupCompile.cache
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree_MarkupCompile.lref
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree.g.resources
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree.Properties.Resources.resources
+C:\Users\user\Desktop\WeightedTree\WeightedTree\obj\Debug\WeightedTree.csproj.GenerateResource.Cache
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\bin\Debug\WeightedTree.exe.config
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\bin\Debug\WeightedTree.exe
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree.csproj.AssemblyReference.cache
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\MainWindow.g.cs
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\App.g.cs
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree_MarkupCompile.cache
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree_MarkupCompile.lref
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\MainWindow.baml
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree.g.resources
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree.Properties.Resources.resources
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree.csproj.GenerateResource.cache
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree.csproj.CoreCompileInputs.cache
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree.exe
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\obj\Debug\WeightedTree.pdb
+D:\Киця\My phone_09_11_2023\Файли\Проги\WeightedTree\WeightedTree\bin\Debug\WeightedTree.pdb
